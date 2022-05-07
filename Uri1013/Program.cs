@@ -25,6 +25,7 @@ namespace Uri1013
             maior = (n1 + n2 + Math.Abs(n1 - n2)) /2 ;
             maiorABC = (maior + n3 + Math.Abs(maior - n3)) /2;
 
+            //Exibindo a resposta
             Console.WriteLine(maiorABC);
             Console.ReadLine();
         }
