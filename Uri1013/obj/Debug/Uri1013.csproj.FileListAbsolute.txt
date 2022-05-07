@@ -1,0 +1,8 @@
+C:\Projetos CSharp\Extras\Uri1013\Uri1013\bin\Debug\Uri1013.exe.config
+C:\Projetos CSharp\Extras\Uri1013\Uri1013\bin\Debug\Uri1013.exe
+C:\Projetos CSharp\Extras\Uri1013\Uri1013\bin\Debug\Uri1013.pdb
+C:\Projetos CSharp\Extras\Uri1013\Uri1013\obj\Debug\Uri1013.csproj.AssemblyReference.cache
+C:\Projetos CSharp\Extras\Uri1013\Uri1013\obj\Debug\Uri1013.csproj.SuggestedBindingRedirects.cache
+C:\Projetos CSharp\Extras\Uri1013\Uri1013\obj\Debug\Uri1013.csproj.CoreCompileInputs.cache
+C:\Projetos CSharp\Extras\Uri1013\Uri1013\obj\Debug\Uri1013.exe
+C:\Projetos CSharp\Extras\Uri1013\Uri1013\obj\Debug\Uri1013.pdb
